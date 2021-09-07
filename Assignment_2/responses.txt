@@ -1,5 +1,6 @@
-Here is the text I needed to add for assignment two.
-
-Assignment two seems easy, but I could be getting ahead of myself and this could just be the beginning of this journey.
-
-I hope this doesn't get any harder...
+1. How is the world wide web different than the internet?
+2. Briefly describe how the internet works.
+3. What is a directory, and what is its relationship to files?
+4. How will VCS benefit you?
+5. Take a screenshot anytime while working on your homework.
+6. What is your favorite kind of art?
