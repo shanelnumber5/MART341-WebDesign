@@ -1,0 +1,19 @@
+2. What is the relationship between an IP address and the DNS?
+The IP address is the computer or system's physical address is. That way when computers communicate they know where to send the information.  The DNS associates the the website address with the number or IP address.  The DNS is like a phone book the computer uses to look up domain names that are associated with IP addresses.
+
+3. What is a cookie?
+What websites use to remember who you are, it is a number that helps the computer identify you.
+
+4. List the three essential parts of a URL.
+    1. HTTP and DNS manage the sending and receiving of web files.
+    2. TCP/IP & routing break down the transport packets.
+    3. Wires, cable, and WIFI binary sequences of 1's and 0's are sent physically.
+        - A GET request that uses HTML or hyper text markup language or HTTPs.  Tells the computer what the page looks like.
+        - A POST request, sends data to the server that is attached to it.
+        - The transfer of cookies that get saved onto your computer.
+
+**3 things you've learned so far:**
+
+    1. The internet is a physical wire (called an optical fiber network) that goes across continents and oceans.
+    2. Web usage and exploration is connected to nautical terms.
+    3. How much slower ethernet cable is compared to fiber optic cables because of it's mode of transport.
