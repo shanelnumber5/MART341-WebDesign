@@ -1,5 +1,9 @@
 # **Assignment 4**
 
+### 10. Take a screenshot to commemorate this achievement, name it properly, and place it in assignment04/images/.
+**Screenshot**
+![Screenshot](./Images/MyFirstWebPage.png)
+
 ### 13. Very briefly detail how browsers function. List any browsers you currently use to surf - or even develop for - the web.
 Used to access the internet from any device. Browsers are used to display web pages.
 
