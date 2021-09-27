@@ -5,9 +5,9 @@ The IP address is the computer or system's physical address is. That way when co
 What websites use to remember who you are, it is a number that helps the computer identify you.
 
 4. List the three essential parts of a URL.
-    1. HTTP and DNS manage the sending and receiving of web files.
-    2. TCP/IP & routing break down the transport packets.
-    3. Wires, cable, and WIFI binary sequences of 1's and 0's are sent physically.
+    1. Protocol
+    2. Domain (the path or directory).
+    3. The Page
         - A GET request that uses HTML or hyper text markup language or HTTPs.  Tells the computer what the page looks like.
         - A POST request, sends data to the server that is attached to it.
         - The transfer of cookies that get saved onto your computer.
