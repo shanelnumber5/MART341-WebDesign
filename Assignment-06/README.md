@@ -1,4 +1,4 @@
-# Assignment 6 <i>README</i> Questions and Answers
+# Assignment 6 <i>ReadMe</i> Questions and Answers
 
 ## 13. How many main document <i>head</i> and <i>body</i> elements can a page have? How are these elements different, or what role do they play?
 <p>
