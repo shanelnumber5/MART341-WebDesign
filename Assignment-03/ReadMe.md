@@ -8,7 +8,7 @@
 * [Karma Pigments](https://www.kamapigment.com)
 
 ### My Responses
-[My Responses](./Responses.txt)  
+[My Responses](./responses.txt)  
 
 ### Screenshot
-![Screenshot](./Images/Editor.png)
+![Screenshot](./images/Editor.png)
