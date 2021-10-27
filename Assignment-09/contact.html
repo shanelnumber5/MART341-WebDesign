@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang='en-US'>
+
+<head>
+  <title>Contact Me</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Contact page for Shanel Locke Fine Art.">
+  <meta name="author" content="Shanel Locke">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    ul {
+      background-color: #FF1493;
+      border: 5px solid black;
+      font-size: 25px;
+      text-align: center;
+      padding: 15px;
+    }
+
+    h1 {
+      background-color: #87CEEB;
+      border: 5px solid black;
+      font-size: 50px;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h2 {
+      background-color: #FF1493;
+      border: 5px solid black;
+      font-size: 25px;
+      text-align: center;
+      padding: 10px;
+      width: 400px;
+    }
+
+    li {
+      display: inline;
+      padding: 5px;
+    }
+
+    body {
+      background-color: #ff00ff;
+      font-family: Garamond, Serif;
+      font-size: 14px;
+      flex-wrap: wrap;
+    }
+
+    img {
+      border: 5px solid black;
+    }
+
+    textarea {
+      border: 5px solid black;
+      width: 700px;
+    }
+
+    address {
+      border: 5px solid black;
+      padding: 5px;
+      background-color: #FF8C00;
+      width: 800px;
+      font-size: 20px;
+    }
+
+    table,
+    th,
+    td {
+      border: 5px solid black;
+      padding: 10px;
+      background-color: #FF8C00;
+    }
+
+    form {
+      border: 5px solid black;
+      padding: 5px;
+      background-color: #FF8C00;
+      width: 800px;
+    }
+
+    .submit {
+      background-color: #FF1493;
+      border: 3px solid black;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+  </style>
+</head>
+
+
+<body>
+  <nav id="main">
+    <ul>
+      <li><a href="index.html">Home</a></li>&nbsp;&vert;
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </nav>
+  <p>&nbsp;</p>
+  <center>
+    <h1><bold>Contact Me</bold>
+    </h1>
+    <img src="./images/locke-logo.jpg" alt="A delightful image of Shanel Locke with bright colors." title="Shanel Locke Art Logo" class="center" width="400" />
+    <div>
+      <h2>Studio Location</h2>
+      <address>
+        Shanel Locke Art<br />
+        315 Central Ave. E.<br />
+        Brady, MT 59416<br />
+        <a href="mailto:shanellockeart@gmail.com">Send me an email</a>
+        <p>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2667.8587037979064!2d-111.8402142843637!3d48.03575566622611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5369dcf48767e5ef%3A0xa4ed945abcbd2605!2s315%20Central%20Ave%20E%2C%20Brady%2C%20MT%2059416!5e0!3m2!1sen!2sus!4v1634749037088!5m2!1sen!2sus"
+          width="600" height="450" style="border:5px;" allowfullscreen="" loading="lazy">
+        </iframe>
+      </p>
+      </address>
+      </map>
+    </div>
+    <div>
+      <table>
+        <tr>
+          <h2>Hours of Operation</h2>
+          <th scope="col">Monday</th>
+          <th scope="col">Tuesday</th>
+          <th scope="col">Wednesday</th>
+          <th scope="col">Thursday</th>
+          <th scope="col">Friday</th>
+          <th scope="col">Saturday</th>
+          <th scope="col">Sunday</th>
+        </tr>
+        <tr>
+          <td>Closed</td>
+          <td>9:00AM-5:00PM</td>
+          <td>9:00AM-5:00PM</td>
+          <td>9:00AM-5:00PM</td>
+          <td>9:00AM-5:00PM</td>
+          <td>11:00AM-6:00PM</td>
+          <td>11:00AM-4:00PM</td>
+      </table>
+    </div>
+    <h2>Get a Quote</h2>
+    <div>
+      <form method="POST" action="index.html">
+        <p></p>
+        <form>
+          <table>
+            <tr>
+              <td>
+                <label for="firstname">First Name</label>
+              </td>
+              <td>
+                <input type="text" id="name" />
+              </td>
+            </tr>
+            <td>
+              <label for="lastname">Last Name</label>
+            </td>
+            <td>
+              <input type="text" id="name" />
+            </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="phone">Phone</label>
+              </td>
+              <td>
+                <input type="text" id="phone" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label for="email">Email</label>
+              </td>
+              <td>
+                <input type="email" id="email" />
+              </td>
+            </tr>
+          </table </form>
+          <h4>Comments</h4>
+          <textarea name="comments" id="comments" rows="10" cols="40" id="test-textarea">Enter up to 500 characters...</textarea>
+          <h4>Newsletter?</h4>
+          <p></p>
+          Yes&nbsp;<input type="radio" name="newsletter" id="newsletter" value="Y">
+          No&nbsp;<input type="radio" name="newsletter" id="newsletter" value="N">
+          <p></p>
+          <input type="submit" class="submit" value="submit">
+          <p></p>
+        </form>
+  </center>
+  </div>
+
+</body>
+
+</html>
+
+
+</html>
