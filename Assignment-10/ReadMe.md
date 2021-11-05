@@ -1,37 +1,23 @@
 # Assignment 9 ReadMe Questions and Answers
 
-## 1. Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?
+## 1. Describe the difference between the universal, element, class, and id selector types. When might you choose one over the other to style content?
 
-Older Elements We Revisited:
-* The four main document elements.
-* Head elements.
-* Semantic markup.
-* Lists
-* Forms
-* Form input elements.
-* Submit buttons.
-* Ids
-* Classes
-* Divs
-* Maps in the Iframe element.
-* Media in the Ifame element.
-* The image element.
+### Difference in selector types:
+* Universal Selector: styles every element on the page.  It is defined as a (*), the * means all.
+* Element Selector: selects certain types of elements, but needs a keyword to declare that style.
+* Class Selector: selects elements that have similar functions.  Must have a dot(.) and a name attached to them.
+* ID Selector: defines specific rules for unique IDs and is defined with a (#).
 
-Newer/Interesting Elements:
-* The difference between inline and embedded styling and which one takes precedence over the other.
-* How to visually format structural elements of a page.
-* Changing the width of the div.
-* How to use padding and what it is.
-* Different types of navigation elements (not going to lie, kind of excited to use this element)
+### Reasons for choosing selector types:
+* The universal selector makes your selectors easier to read.
+* The element selector reduces the scope of an established rule and only applies to that element.
+* The class selector applies multiple classes to an element to target individual classes better.  It builds up components that can be combined in different ways.
+* ID selectors overrule most other selectors, but can only be used once per page.
 
-Difficult Elements:
-* The use of an external stylesheet: I remember doing a little bit of this in our Creative Coding I class, so I know that the material starts becoming even more complicated at that point.  But it could have been because coding was so new to me!
-* Background and regular images and how to format them accordingly.
+## 2. Briefly discuss your color palette, including the 3 colors you chose. List their color names, RGB values, or hex codes.
 
-## 2. Next module we continue with CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?
+I always use [Adobe Color](https://color.adobe.com/search?q=80%27s#), because I can put in key words and it gives me a matching color palette with all the appropriate hex codes.
+![80's Color Palatte](./images/80s-color-palette.png)
 
-I am excited to have more freedom in my decorative elements, but I just remember how difficult it was for me to create one last semester.  Honestly with the help of YouTube and Jon Duckett, I think I might survive  &#128540;.
-
-
-## 3. Free Response: Summarize your challenges and successes. What did you do to overcome your challenges?
-I just looked over material again and went to the W3 School site a lot.  I struggled with the inline text and adding spaces to certain things.  I think I might be able to do this competently.
+## 3. Free Response: Please discuss any challenges you had this week and how you overcame them.
+It took me forever to figure out how the center certain items!  I am not sure why I can't just input "center" for the command, but I did figure it out.  I felt really good about adding that automatic slideshow and it actually working correctly.  I found the code in W<sup>3</sup> schools and edited it to fit the theme I had for my page.
