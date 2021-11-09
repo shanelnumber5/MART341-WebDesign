@@ -1,4 +1,4 @@
-# Assignment 10 ReadMe Questions and Answers
+# Assignment 9 ReadMe Questions and Answers
 
 ## 1. Describe the difference between the universal, element, class, and id selector types. When might you choose one over the other to style content?
 
