@@ -19,5 +19,5 @@ Taking <i>Creative Coding I</i>, really helped clarify a lot of these topics ear
 
 ### 3. An embedded image of your screenshot using its relative URL.
 
-<img src="./images/IndexScreenShot.png" />
-<img src="./images/AboutScreenShot.png" />
+<img src="./images/indexscreenshot.png" />
+<img src="./images/aboutscreenshot.png" />
