@@ -1,7 +1,7 @@
 .header {
-	background-image: url("../images/header.jpg");
-	background-size: contain;
-	height: 175px;
+  background-image: url("../images/header.jpg");
+  background-size: contain;
+  height: 175px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -9,8 +9,8 @@
 
 .footer {
   background-image: url("../images/footer.jpg");
-	background-size: contain;
-	height: 175px;
+  background-size: contain;
+  height: 175px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -18,5 +18,42 @@
 
 table {
   border: 0px;
-  margin-left: 75px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+td {
+  width: 25%;
+  padding: 30px;
+}
+
+.button {
+  background-color: white;
+  line-height: 2em;
+  padding: 10px;
+  border: none;
+  color: black;
+  display: inline-block;
+  transition-duration: 0.4s;
+  margin: 2em;
+  margin-bottom: 1em;
+  margin-top: -1em;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
+.bookbutton {
+  background-color: white;
+  padding: 10px;
+  border: none;
+  color: black;
+  display: flex;
+}
+
+.bookbutton:hover {
+  background-color: black;
+  color: white;
 }
