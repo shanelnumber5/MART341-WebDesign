@@ -16,6 +16,7 @@
 
 *  {
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
 }
 
 .title {
@@ -31,7 +32,10 @@ h1 {
 
 h2 {
   font-family: 'Pattaya', cursive;
-  margin: 2em; margin-top: .2em;
+  font-size: 35px;
+  margin: 2em;
+  margin-top: .2em;
+  margin-bottom: .5em;
 }
 
 .button {
