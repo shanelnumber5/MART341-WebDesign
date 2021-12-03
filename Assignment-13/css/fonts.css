@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'AbrilFatface';
+  src: url("../fonts/AbrilFatface-Regular.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pattaya';
+  src: url("../fonts/Pattaya-Regular.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'AbrilFatface', Georgia;
+  font-size: 100px;
+  font-size: 5vw;
+  font-weight: bold;
+  line-height: 1.25em;
+}
+
+h2 {
+  font-family: 'AbrilFatface', Georgia;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Pattaya', cursive;
+  font-size: 35px;
+  margin-left: 3em;
+  margin-top: .2em;
+  margin-bottom: .5em;
+}
+
+.button {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+cite {
+  font-family: 'AbrilFatface', Georgia;
+  font-size: 20px
+}
