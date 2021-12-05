@@ -1,13 +1,6 @@
 @font-face {
-  font-family: 'AbrilFatface';
-  src: url("../fonts/AbrilFatface-Regular.ttf") format('truetype');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Pattaya';
-  src: url("../fonts/Pattaya-Regular.ttf") format('truetype');
+  font-family: 'MeowScript-Regular';
+  src: url("../fonts/MeowScript-Regular.ttf") format('truetype');
   font-weight: bold;
   font-style: normal;
 }
@@ -16,36 +9,37 @@
 
 * {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 20px;
+  font-size: 1em;
+  color: #BF4158;
 }
 
 h1 {
-  font-family: 'AbrilFatface', Georgia;
-  font-size: 100px;
-  font-size: 5vw;
+  font-family: 'MeowScript-Regular', cursive;
+  font-size: 3em;
   font-weight: bold;
-  line-height: 1.25em;
+  color: Black;
 }
 
 h2 {
-  font-family: 'AbrilFatface', Georgia;
-  font-size: 40px;
+  font-family: 'MeowScript-Regular', cursive;
+  font-size: 3em;
+  color: Black;
 }
 
 h3 {
-  font-family: 'Pattaya', cursive;
-  font-size: 35px;
-  margin-left: 3em;
-  margin-top: .2em;
-  margin-bottom: .5em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color: #BF4158;
 }
 
-.button {
-  text-decoration: none;
-  font-size: 25px;
+h4 {
+  font-family: 'MeowScript-Regular', cursive;
+  font-size: 2em;
+  color: Black;
 }
 
-cite {
-  font-family: 'AbrilFatface', Georgia;
-  font-size: 20px
+.notice {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1em;
 }
